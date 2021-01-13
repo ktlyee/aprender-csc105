@@ -1,7 +1,4 @@
 * text=auto
-# *.html -linguist-vendored
-# *.css linguist-vendored
-# *.scss linguist-vendored
-# *.js linguist-vendored
-*.blade linguist-vendored
+# resources/views/* linguist-detectable
+*.blade linguist-language=Java
 CHANGELOG.md export-ignore
