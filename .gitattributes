@@ -1,7 +1,7 @@
-* text=auto
-# *.html linguist-vendored
-*.css linguist-vendored
-*.scss linguist-vendored
-*.js linguist-vendored
+# * text=auto
+# *.html -linguist-vendored
+# *.css linguist-vendored
+# *.scss linguist-vendored
+# *.js linguist-vendored
 resources/views/* linguist-vendored
 CHANGELOG.md export-ignore
