@@ -1,4 +1,3 @@
 * text=auto
-# resources/views/* linguist-detectable
-*.blade linguist-language=Java
+*.blade.php linguist-detectable
 CHANGELOG.md export-ignore
