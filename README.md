@@ -1,2 +1,2 @@
 # Aprender - CSC105
-The project of CSC105 - Web Application created by HTML, CSS, Laravel
+The web application about a tutorial website to follow the topic of Sustainable Development Goals. This webpages created by using HTML, CSS, JavaScript, Bootstrap, and Laravel
